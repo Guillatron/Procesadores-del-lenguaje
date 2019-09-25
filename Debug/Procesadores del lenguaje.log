@@ -1,0 +1,9 @@
+﻿  Ejercicio1.cpp
+C:\Users\jorge\source\repos\Procesadores del lenguaje\Procesadores del lenguaje\Ejercicio1.cpp(44,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jorge\source\repos\Procesadores del lenguaje\Procesadores del lenguaje\Ejercicio1.cpp(53,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jorge\source\repos\Procesadores del lenguaje\Procesadores del lenguaje\Ejercicio1.cpp(67,54): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\jorge\source\repos\Procesadores del lenguaje\Procesadores del lenguaje\Ejercicio1.cpp(70,54): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jorge\source\repos\Procesadores del lenguaje\Procesadores del lenguaje\Ejercicio1.cpp(72,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jorge\source\repos\Procesadores del lenguaje\Procesadores del lenguaje\Ejercicio1.cpp(72,61): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\jorge\source\repos\Procesadores del lenguaje\Procesadores del lenguaje\Ejercicio1.cpp(74,30): warning C4018: '<': no coinciden signed/unsigned
+  Procesadores del lenguaje.vcxproj -> C:\Users\jorge\source\repos\Procesadores del lenguaje\Debug\Procesadores del lenguaje.exe
